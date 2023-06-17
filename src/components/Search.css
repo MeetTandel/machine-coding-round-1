@@ -1,0 +1,17 @@
+.search__bar__container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;;
+}
+
+input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid lightgray
+}
+
+.input__container {
+    display: flex;
+    align-items: center;
+}

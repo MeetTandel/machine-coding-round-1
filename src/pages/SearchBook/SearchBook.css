@@ -1,0 +1,10 @@
+.search-book__content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.no__book {
+    margin-top: 100px;
+}

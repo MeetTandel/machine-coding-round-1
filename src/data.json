@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "The Great Gatsby",
+        "image": "https://m.media-amazon.com/images/I/41JsgNf5g7L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "category": "Currently Reading"
+    },
+    {
+        "id": 2,
+        "name": "To Kill a Mockingbird",
+        "image": "https://m.media-amazon.com/images/I/51Z9p5AecCL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "category": "Currently Reading"
+    },
+    {
+        "id": 3,
+        "name": "Rich Dad Poor Dad",
+        "image": "https://m.media-amazon.com/images/I/51Hfv2MfNGL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert T. Kiyosaki",
+        "category": "Want to Read"
+    },
+    {
+        "id": 4,
+        "name": "Pride and Prejudice",
+        "image": "https://m.media-amazon.com/images/I/41Xbz4NNuwL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "category": "Want to Read"
+    },
+    {
+        "id": 5,
+        "name": "The Catcher in the Rye",
+        "image": "https://m.media-amazon.com/images/I/41HyqsKo4vL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "category": "Read"
+    },
+    {
+        "id": 6,
+        "name": "To the Lighthouse",
+        "image": "https://m.media-amazon.com/images/I/517FCFS7WBL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "title": "To the Lighthouse",
+        "author": "Virginia Woolf",
+        "category": "Read"
+    }
+]
