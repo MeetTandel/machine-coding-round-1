@@ -14,6 +14,8 @@ export function BookProvider({ children }) {
         )
       : [];
 
+  // console.log("books", bookState.data)
+
   return (
     <BookContext.Provider
       value={{
